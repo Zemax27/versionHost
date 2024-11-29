@@ -1,0 +1,14 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [1.2.3] - 2024-11-29
+### Added
+- Embedded the `mpv` player directly into Pizza. No need for a separate executable.
+- Added new PQ tone-mapping mode:
+  - Linearly stretches the input range to the output range, in PQ space.
+- Updated `mpv` to release 0.39.0:
+  - Improved peak detection for `bt.2446a` tone mapping.
+    - Previously, Samsung videos were often unstable due to hot pixels.
+  - Added support for taking screenshots in AVIF (HDR) format.
+
+
