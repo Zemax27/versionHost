@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [1.2.3] - 2024-11-29
+## [1.2.2] - 2024-11-29
 ### Added
 - Embedded the `mpv` player directly into Pizza. No need for a separate executable.
 - Added new PQ tone-mapping mode:
