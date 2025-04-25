@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.3.0] - 2025-04-10
+### New
+- Drag & Drop your media toppings onto the Pizza and watch your playlist come to life! 🍕 
+
 ## [1.2.4] - 2025-04-10
 ### Modified
 - AVIF (HDR) screenshots are saved in 10bits 4:2:0 to improve windows compatibility.
