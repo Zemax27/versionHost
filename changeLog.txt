@@ -1,5 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
+## [2.1.0] - 2025-05-19
+### Modified
+  - Optimized positions of multi-playbacks windows
+
 ## [2.0.1] - 2025-05-16
 ### BugFix
   - Drag-to-pan when zoom-in was not enabled
