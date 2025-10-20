@@ -1,15 +1,15 @@
 ## [1.1.0] - 2025-10-15
-- [ALL] Updated the application icon.
-- [WIN] Fixed an issue with the installer.
+[ALL] - Updated the application icon.
+[WIN] - Fixed an issue with the installer.
 
 ## [1.2.0] - 2025-10-20
-- [MAC] Improved performance on Apple Silicon devices.
-- [MAC] Fixed a rendering glitch in the main window.
-- [ALL] Added a new "Export" feature.
+[MAC] - Improved performance on Apple Silicon devices.
+[MAC] - Fixed a rendering glitch in the main window.
+[ALL] - Added a new "Export" feature.
 
 ## [1.3.0] - 2025-10-25
-- [WIN] Fixed a bug related to the Windows Registry.
-- [ALL] Updated third-party libraries.
+[WIN] - Fixed a bug related to the Windows Registry.
+[ALL] - Updated third-party libraries.
 
 ## [1.3.1] - 2025-10-26
-- [WIN] Fixed a bug related to the Windows event handler.
+[WIN] - Fixed a bug related to the Windows event handler.
