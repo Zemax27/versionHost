@@ -1,13 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
-## [2.2.0] - 2025-10-22
-Refer to confluence documentation for detailed description of the following:
-  - First version available for macOS 🍎​ --> dedicated .pkg installer
-  - Display selection for playback 
-  - Set reference mode for HDR compatible display (only in macOS)
-  - New UI layout -->  Fold and unfold the pizza 🍕 
-  - Themes ​🎨​ for pizza personalization
-  - Media tagger (experimental) to add tag at timestamps 
+## [3.0.0] - 2025-10-22
+Refer to the Confluence documentation for full details on these updates:
+  - 🍎 macOS Support -> First release for macOS with a dedicated .pkg installer.
+  - 🖥️ Display Selection -> Choose your preferred display for playback.
+  - 🌈 HDR Reference Mode –> Set reference mode for HDR-compatible displays (macOS only).
+  - 🍕 New UI Layout –> Fold and unfold the pizza! A refreshed interface for accessibility.
+  - 🎨 Themes –> Personalize your pizza experience with custom themes.
+  - 🧩 Media Tagger (Experimental) –> Add timestamp-based tags to your media.
 
 ## [2.1.0] - 2025-05-19
 ### Modified
@@ -45,4 +45,5 @@ Refer to confluence documentation for detailed description of the following:
   - Improved peak detection for `bt.2446a` tone mapping.
     - Previously, Samsung videos were often unstable due to hot pixels.
   - Added support for taking screenshots in AVIF (HDR) format.
+
 
