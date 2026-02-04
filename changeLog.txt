@@ -1,5 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
+## [3.0.1] - 2026-02-04
+[ALL] - Bug fix on MPV options for tone-mapping.
+[MAC] - Updated to MPV stable version.
+
 ## [3.0.0] - 2025-10-22
 Refer to the Confluence documentation for full details on these updates:
   - 🍎 macOS Support -> First release for macOS with a dedicated .pkg installer.
@@ -45,5 +49,6 @@ Refer to confluence documentation for detailed description of the following:
   - Improved peak detection for `bt.2446a` tone mapping.
     - Previously, Samsung videos were often unstable due to hot pixels.
   - Added support for taking screenshots in AVIF (HDR) format.
+
 
 
