@@ -1,5 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
+## [4.0.0] - 2026-06-01
+[ALL] - 4th generation Pizza with new GUI and improved playback controls.
+[ALL] - 🌈 Personalize color theme and mpv shortcuts.
+[ALL] - 🎮 Multi windows sync for playback and zoom controls through IPC protocol.
+[ALL] - 🦾 Automatic update for future versions.
+[MAC] - Several bug fixes and stability improvements.
+
 ## [3.0.1] - 2026-02-04
 [ALL] - Bug fix on MPV options for tone-mapping.
 [MAC] - Updated to MPV stable version.
