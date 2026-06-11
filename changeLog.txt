@@ -1,5 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
+## [4.1.0] - 2026-06-11
+[ALL] New customizable playback mode.
+[ALL] UX improvements during zoom drag in sync mode.
+
 ## [4.0.0] - 2026-06-01
 [ALL] 4th generation Pizza with new GUI and improved playback controls.
 [ALL] - 🌈 Personalize color theme and mpv shortcuts.
