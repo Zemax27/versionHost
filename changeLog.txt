@@ -1,5 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
+## [4.2.0] - 2026-08-23
+[ALL] - 🌄 JPEG (ISO 21496-1) gain map photos now render in HDR, with a key to switch back to the SDR base image.
+[ALL] - 📖 Searchable manual on F1, plus a guided tour on first launch.
+[ALL] - 🛡️ Several bugfixes for more reliable settings, synchronized screenshots, theme colors and updates.
+
 ## [4.1.0] - 2026-06-11
 [ALL] New customizable playback mode.
 [ALL] UX improvements during zoom drag in sync mode.
