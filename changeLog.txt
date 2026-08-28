@@ -1,5 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
+## [4.2.1] - 2026-08-28
+[ALL] - 🌄 Gain map JPEG extended support for UltraHDR, with faster gain map detection.
+[ALL] - 🛡️ Stability fixes for screen changes, window sizing and the update banner.
+
 ## [4.2.0] - 2026-08-23
 [ALL] - 🌄 JPEG (ISO 21496-1) gain map photos now render in HDR, with a key to switch back to the SDR base image.
 [ALL] - 📖 Searchable manual on F1, plus a guided tour on first launch.
