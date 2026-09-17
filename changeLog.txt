@@ -1,5 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
+## [4.3.0] - 2026-09-17
+[ALL] - 🗂️ Multiple playlist tabs in a single window with rename, reorder, close, and file drag-and-drop between tabs.
+[ALL] - 🔍 Instant playlist search and organization.
+[ALL] - 🏷️ Dynamic range badges: visual badges for dynamic range profiles.
+[ALL] - 🌈 Improved color management for images with no ICC profile.
+[ALL] - 🖥️ Improved HDR mode detection on selected display.
+[ALL] - 🪲⚡ Several bugfixes and performances optimization.
+
 ## [4.2.1] - 2026-08-28
 [ALL] - 🌄 Gain map JPEG extended support for UltraHDR, with faster gain map detection.
 [ALL] - 🛡️ Stability fixes for screen changes, window sizing and the update banner.
